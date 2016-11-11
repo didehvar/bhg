@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+<div class="home">
+  {% capture home %}{% include home.md %}{% endcapture %}
+  {{ home | markdownify }}
+</div>
