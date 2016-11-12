@@ -24,4 +24,4 @@ The Bounty Hunters' Guild was composed of many smaller guilds that operated near
 #### Content provided by
 
 <a href="http://starwars.wikia.com/wiki/Bounty_Hunters%27_Guild/Legends" target="_blank">
-<img src="http://starwars.wikia.com/wiki/Main_Page" alt="The Star Wars Wiki" width="200" height="20" border="0">
+<img src="{{ site.url }}/assets/Wiki-wordmark.png" alt="The Star Wars Wiki" width="200" height="20" border="0">
