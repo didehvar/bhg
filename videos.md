@@ -19,4 +19,4 @@ permalink: /videos/
 <a href="https://www.youtube.com/channel/UCdJt2BvAOnFa9uEvbiDBF9g" target="_blank">
 <img src="{{ site.url }}/assets/VGM.PNG" alt="Virtual Gaming Worldt" width="560" height="100" border="0">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WD2IeqUCaOU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yt4EB035DDA" frameborder="0" allowfullscreen></iframe>
