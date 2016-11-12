@@ -10,7 +10,8 @@ permalink: /videos/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eLs6BMIvXL0" frameborder="0" allowfullscreen></iframe>
 
 
-![Smithie D]({{ site.url }}/assets/Smithie_d.PNG)
+<a href="https://www.youtube.com/channel/UCS3DjNR8y6tKX7LSjV_RRKA">
+<img src="{{ site.url }}/assets/Smithie_d.PNG" alt="Smithie D" width="560" height="100" border="0">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPRSexnKbw0" frameborder="0" allowfullscreen></iframe>
 
