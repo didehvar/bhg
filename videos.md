@@ -5,7 +5,7 @@ permalink: /videos/
 ---
 
 <a href="https://www.youtube.com/user/MistPassiert">
-<img src="{{ site.url }}/assets/MistPassiert.PNG" alt="Mist Passiert" width="560" height="200" border="0">
+<img src="{{ site.url }}/assets/MistPassiert.PNG" alt="Mist Passiert" width="560" height="100" border="0">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eLs6BMIvXL0" frameborder="0" allowfullscreen></iframe>
 
