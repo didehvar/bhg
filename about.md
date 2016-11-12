@@ -21,7 +21,7 @@ The Bounty Hunters' Guild was composed of many smaller guilds that operated near
 * Skine Bounty Hunter College (specialists, who were top at variety of things)
 * Slaver Syndicate (sometimes turned their bounties over to slavers)
 
-#### Content provided by
+#### Many thanks to Wookieeoedia for this information
 
 <a href="http://starwars.wikia.com/wiki/Bounty_Hunters%27_Guild/Legends" target="_blank">
-<img src="{{ site.url }}/assets/Wiki-wordmark.png" alt="The Star Wars Wiki" width="200" height="20" border="0">
+<img src="{{ site.url }}/assets/Wiki-wordmark.png" alt="The Star Wars Wiki" width="200" height="50" border="0">
