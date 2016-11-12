@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Bounty Hunters Guild
+title: About
 permalink: /about/
 ---
 
