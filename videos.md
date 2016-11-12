@@ -12,3 +12,8 @@ permalink: /videos/
 ![Smithie D]({{ site.url }}/assets/Smithie_d.PNG)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPRSexnKbw0" frameborder="0" allowfullscreen></iframe>
+
+
+![Virtual Gaming World]({{ site.url }}/assets/VGM.PNG)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tq_Doqlb-PU" frameborder="0" allowfullscreen></iframe>
