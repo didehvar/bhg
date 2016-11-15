@@ -10,12 +10,12 @@ The Bounty Hunters' Guild was an ancient institution that regulated the bounty-h
 The Bounty Hunters' Guild was composed of many smaller guilds that operated nearly independently. Those guilds were loosely held together by the overarching Bounty Hunters' Guild, each with its own organization, regulation, specialties and agendas. The core of the Bounty Hunters' Guild is made up of ten major houses along with a number of smaller groups, each specializing in a unique brand of bounty hunting, but reporting to the guildmaster. Those major Houses were:
 
 * Crimson Nova (specialized in Jedi)
-* House of Benelex (specialized in kidnapping retrieval)
-* House of Neuvalis (rarely dealt with outsiders)
-* House of Paramexor (specialized in hunting murderers)
-* House of Renliss (consisted of female hunters pursuing male bounties)
-* House of Salaktori (the most elite and prominent house)
-* House of Tresario (specialized in hunting pirates)
+* House Benelex (specialized in kidnapping retrieval)
+* House Neuvalis (rarely dealt with outsiders)
+* House Paramexor (specialized in hunting murderers)
+* House Renliss (consisted of female hunters pursuing male bounties)
+* House Salaktori (the most elite and prominent house)
+* House Tresario (specialized in hunting pirates)
 * Mantis Syndicate (specialized in big groups)
 * Ragnar Syndicate (specializing in unorthodox techniques)
 * Skine Bounty Hunter College (specialists, who were top at variety of things)
