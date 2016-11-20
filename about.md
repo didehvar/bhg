@@ -27,4 +27,4 @@ The core of the Bounty Hunters’ Guild is made up of nine major houses that ope
 
 * <B>212th Attack Battalion</B> (Specialized in raiding in Europe)
 
-* <B>Dreadmasters</B> (FTB-Dread Masters consists of top US ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
+* <B>Dreadmasters</B> (DreadMasters consists of top US ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
