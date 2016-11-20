@@ -11,7 +11,7 @@ Its rules are the laws that keep bounty hunters together, anyone who breaks the 
 
 The core of the Bounty Hunters’ Guild is made up of nine major houses that operate nearly independently, but are held together by the overarching Bounty Hunters’ Guild. Each house has its own organization, regulation, specialties and agendas. Line and Discord are used for communication as these forces operate across the galaxy. The major Houses are:
 
-* ###House Salaktori (specialized in raiding in all areas of the galaxy)
+* House Salaktori (specialized in raiding in all areas of the galaxy)
 * Epidemic (Specialized in raiding in Europe)
 * Shot First (Specialized in raiding in Europe)
 * Squad Goals (Specialized in raiding in the US)
@@ -19,4 +19,7 @@ The core of the Bounty Hunters’ Guild is made up of nine major houses that ope
 * We Are Legion (Specialized in raiding in the US)
 * Forces of Mortis (Specialized in raiding in the US)
 * 212th Attack Battalion (Specialized in raiding in Europe)
-* Dreadmasters (FTB-Dread Masters consists of top ranking experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance.Most players are based in the US)
+
+* Dreadmasters (FTB-Dread Masters consists of top US ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance in US based )
+
+<B>Hello</B>Not bold
