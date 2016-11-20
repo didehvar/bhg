@@ -19,4 +19,4 @@ The core of the Bounty Hunters’ Guild is made up of nine major houses that ope
 * We Are Legion (Specialized in raiding in the US)
 * Forces of Mortis (Specialized in raiding in the US)
 * 212th Attack Battalion (Specialized in raiding in Europe)
-* Dreadmasters (Specialized in raiding in the US)
+* Dreadmasters (FTB-Dread Masters consists of top ranking experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance.Most players are based in the US)
