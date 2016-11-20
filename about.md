@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-The Bounty Hunters’ Guild came from a necessity across the Galaxy and is led by a small core of guild masters. All within the guild are committed to receiving a daily bounty of 600 tickets by completing numerous challenges. This submission of tickets is of upmost importance and forms a part of the Bounty Hunters’ Creed, the unwritten rules of the bounty hunters. 
+The Bounty Hunters’ Guild came from a necessity across the Galaxy and is led by an elite group of game's best players. All within the guild are committed to receiving a daily bounty of 600 tickets by completing numerous challenges. This submission of tickets is of upmost importance and forms a part of the Bounty Hunters’ Creed, the unwritten rules of the bounty hunters. 
 
 Its rules are the laws that keep bounty hunters together, anyone who breaks the rules are held in disregard and are quickly removed from the guild.
 
