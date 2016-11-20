@@ -13,7 +13,7 @@ The core of the Bounty Hunters’ Guild is made up of nine major houses that ope
 
 * <B>House Salaktori</B> (specialized in raiding in all areas of the galaxy)
 
-* <B>Epidemic</B> (Specialized in raiding in Europe)
+* <B>Epidemic</B> (Specialized in raiding in th US, Australia & Asia)
 
 * <B>Shot First</B> (Specialized in raiding in Europe)
 
