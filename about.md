@@ -3,25 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
-The Bounty Hunters' Guild was an ancient institution that regulated the bounty-hunting trade. It was led by a guildmaster who held members to the Bounty Hunters' Creed, the unwritten rules of the bounty hunters. Its rules were the laws that kept bounty hunters together, but the guild was full of loose cannons, who would often break the rules for their own benefit. The guild was more a coalition of the professionals than a proper organization, and rivalries between its houses were a common occurrence. The bounty hunters who joined the guild had the benefit of notifications of bounty postings before they were broadcast through official channels, which gave guild members a head start. Many Imperial agents preferred to deal exclusively with guild bounty hunters.
+The Bounty Hunters’ Guild came from a necessity across the Galaxy and is led by a small core of guild masters. All within the guild are committed to receiving a daily bounty of 600 tickets by completing numerous challenges. This submission of tickets is of upmost importance and forms a part of the Bounty Hunters’ Creed, the unwritten rules of the bounty hunters. 
+
+Its rules are the laws that keep bounty hunters together, anyone who breaks the rules are held in disregard and are quickly removed from the guild.
 
 #### Organization
 
-The Bounty Hunters' Guild was composed of many smaller guilds that operated nearly independently. Those guilds were loosely held together by the overarching Bounty Hunters' Guild, each with its own organization, regulation, specialties and agendas. The core of the Bounty Hunters' Guild is made up of ten major houses along with a number of smaller groups, each specializing in a unique brand of bounty hunting, but reporting to the guildmaster. Those major Houses were:
+The core of the Bounty Hunters’ Guild is made up of nine major houses that operate nearly independently, but are held together by the overarching Bounty Hunters’ Guild. Each house has its own organization, regulation, specialties and agendas. Line and Discord are used for communication as these forces operate across the galaxy. The major Houses are:
 
-* Crimson Nova (specialized in Jedi)
-* House Benelex (specialized in kidnapping retrieval)
-* House Neuvalis (rarely dealt with outsiders)
-* House Paramexor (specialized in hunting murderers)
-* House Renliss (consisted of female hunters pursuing male bounties)
-* House Salaktori (the most elite and prominent house)
-* House Tresario (specialized in hunting pirates)
-* Mantis Syndicate (specialized in big groups)
-* Ragnar Syndicate (specializing in unorthodox techniques)
-* Skine Bounty Hunter College (specialists, who were top at variety of things)
-* Slaver Syndicate (sometimes turned their bounties over to slavers)
-
-Many thanks to Wookieepedia for this information:
-
-<a href="http://starwars.wikia.com/wiki/Bounty_Hunters%27_Guild/Legends" target="_blank">
-<img src="{{ site.url }}/assets/Wiki-wordmark.png" alt="The Star Wars Wiki" width="200" height="50" border="0">
+* House Salaktori (specialized in raiding in all areas of the galaxy)
+* Epidemic (Specialized in raiding in Europe)
+* Shot First (Specialized in raiding in Europe)
+* Squad Goals (Specialized in raiding in the US)
+* Ataru (Specialized in raiding in Asia)
+* We Are Legion (Specialized in raiding in the US)
+* Forces of Mortis (Specialized in raiding in the US)
+* 212th Attack Battalion (Specialized in raiding in Europe)
+* Dreadmasters (Specialized in raiding in the US)
