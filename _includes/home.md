@@ -1,7 +1,4 @@
 # Welcome to the official Star Wars Galaxy of Heroes Bounty Hunters' Guild alliance!
 
-<video width="320" height="240" controls>
-  <source src="{{ site.url }}/assets/PromoVid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L3UCFjYBYzQ" frameborder="0" allowfullscreen></iframe>
 
