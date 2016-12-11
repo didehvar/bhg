@@ -27,9 +27,9 @@ permalink: /Contact/
 </tr>
 <!-- Fourth row -->
 <tr>
-    <td><img src="{{ site.url }}/assets/SFSlogon.jpg" alt="HS" width="150" height="150" border="0"></td>
-    <td>Macewindow</td>
-    <td>Macewindow</td>
+    <td></td>
+    <td></td>
+    <td></td>
 </tr>
 
 </table>
