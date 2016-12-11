@@ -4,13 +4,9 @@ title: Contact
 permalink: /Contact/
 ---
 
-House Salaktori:  - 
 
 
-Shot First: Leader - Line:  - Shot First: Recruitment - Line: Turbs
-
-
-| House                                                                                        | Leader        | Line ID     |
+|                                                                                              | Leader        | Line ID     |
 | -------------                                                                                |:-------------:| :-----:     |
 | <img src="{{ site.url }}/assets/HSSlogon.jpg" alt="HS" width="150" height="150" border="0">  | Silleck       | Silleck     |
 | <img src="{{ site.url }}/assets/SFSlogon.jpg" alt="SF" width="150" height="150" border="0">  | Macewindow    | Macewindow  |
