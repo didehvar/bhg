@@ -4,7 +4,7 @@ title: Contact
 permalink: /Contact/
 ---
 
-<table border="1">
+<table border="0">
 <!-- First row -->
 <tr>
   <td></td>
