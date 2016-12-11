@@ -10,7 +10,7 @@ permalink: /Contact/
   <td></td>
   <td>Leader</td>
   <td>Line ID</td>
-  <td>Discord</td>
+  <td></td>
 </tr>
 <!-- Second row -->
 <tr>
