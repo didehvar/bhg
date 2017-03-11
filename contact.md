@@ -10,7 +10,7 @@ permalink: /Contact/
   <td></td>
   <td align="center">Leader</td>
   <td align="center">Line ID</td>
-  <td rowspan="6"><iframe src="https://discordapp.com/widget?id=246602581957148673&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe></td>
+  <td rowspan="6"><iframe src="https://discordapp.com/widget?id=282189039207972867&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe></td>
 </tr>
 <!-- Second row -->
 <tr>
