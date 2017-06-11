@@ -29,23 +29,23 @@ permalink: /Contact/
 </tr>
 <!-- Fourth row -->
 <tr>
-    <td>Epidemic</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td>Epidemic</td> <!-- House -->
+    <td align="center">Bbm</td> <!-- Leader -->
+    <td align="center"></td> <!-- Line -->
+    <td align="center"></td> <!-- Discord -->
 </tr>
 <!-- Fifth row -->
 <tr>
-    <td>AAA Stars</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td>AAA Stars</td> <!-- House -->
+    <td align="center">Mike Hunt</td> <!-- Leader -->
+    <td align="center"></td> <!-- Line -->
+    <td align="center"></td> <!-- Discord -->
 </tr>
 <!-- Sixth row -->
 <tr>
-    <td>Ataru</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td>Ataru</td> <!-- House -->
+    <td align="center">Wildcat</td> <!-- Leader -->
+    <td align="center"></td> <!-- Line -->
+    <td align="center"></td> <!-- Discord -->
 </tr>
 </table>
