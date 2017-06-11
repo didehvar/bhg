@@ -8,19 +8,21 @@ permalink: /Contact/
 <!-- First row -->
 <tr>
   <td></td>
+  <td align="center">House</td>
   <td align="center">Leader</td>
   <td align="center">Line ID</td>
-  <td rowspan="6"><iframe src="https://discordapp.com/widget?id=282189039207972867&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe></td>
+  <!-- <td rowspan="6"><iframe src="https://discordapp.com/widget?id=282189039207972867&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe></td> -->
 </tr>
 <!-- Second row -->
 <tr>
-    <td><img src="{{ site.url }}/assets/HSSlogon.jpg" alt="House Skolari" width="100" height="100" border="0"></td>
-    <td align="center">Silleck</td>
-    <td align="center">Silleck</td>
+    <td>Skolari</td> <!-- House -->
+    <td align="center">Silleck</td> <!-- Leader -->
+    <td align="center">Silleck</td> <!-- Line ID-->
+    <td align="center">Silleck</td> <!-- Discord ID-->
 </tr>
 <!-- Third row -->
 <tr>
-    <td><img src="{{ site.url }}/assets/SFSlogon.jpg" alt="Shot First" width="100" height="100" border="0"></td>
+    <td>Shot First</td>
     <td align="center">Macewindow</td>
     <td align="center">Macewindow</td>
 </tr>
