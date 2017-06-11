@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our BHG YouTuber's Videos
+title: Videos
 permalink: /videos/
 ---
 
