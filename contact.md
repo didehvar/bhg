@@ -28,19 +28,19 @@ permalink: /Contact/
 </tr>
 <!-- Fourth row -->
 <tr>
-    <td><img src="{{ site.url }}/assets/EPSlogon.jpg" alt="Epidemic" width="100" height="100" border="0"></td>
+    <td>Epidemic</td>
     <td align="center"></td>
     <td align="center"></td>
 </tr>
 <!-- Fifth row -->
 <tr>
-    <td><img src="{{ site.url }}/assets/AASlogon.jpg" alt="AAA" width="100" height="100" border="0"></td>
+    <td>AAA Stars</td>
     <td align="center"></td>
     <td align="center"></td>
 </tr>
 <!-- Sixth row -->
 <tr>
-    <td><img src="{{ site.url }}/assets/ATSlogon.jpg" alt="Ataru" width="100" height="100" border="0"></td>
+    <td>Ataru</td>
     <td align="center"></td>
     <td align="center"></td>
 </tr>
