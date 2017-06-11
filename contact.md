@@ -7,7 +7,6 @@ permalink: /Contact/
 <table>
 <!-- First row -->
 <tr>
-  <td></td>
   <td align="center">House</td>
   <td align="center">Leader</td>
   <td align="center">Line</td>
