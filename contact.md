@@ -15,37 +15,26 @@ permalink: /Contact/
 </tr>
 <!-- Second row -->
 <tr>
-    <td>Skolari</td> <!-- House -->
-    <td align="center">Silleck</td> <!-- Leader -->
-    <td align="center">Silleck</td> <!-- Line -->
-    <td align="center">Silleck</td> <!-- Discord -->
-</tr>
-<!-- Third row -->
-<tr>
     <td>Shot First</td> <!-- House -->
     <td align="center">Macewindow</td> <!-- Leader -->
     <td align="center">Macewindow</td> <!-- Line -->
     <td align="center">Macewindow (BHG SF)#8630</td> <!-- Discord -->
 </tr>
+</table>
+<!-- Third row -->
+<tr>
+    
+</tr>
 <!-- Fourth row -->
 <tr>
-    <td>Epidemic</td> <!-- House -->
-    <td align="center">Bbm</td> <!-- Leader -->
-    <td align="center"></td> <!-- Line -->
-    <td align="center"></td> <!-- Discord -->
+    
 </tr>
 <!-- Fifth row -->
 <tr>
-    <td>AAA Stars</td> <!-- House -->
-    <td align="center">Mike Hunt</td> <!-- Leader -->
-    <td align="center"></td> <!-- Line -->
-    <td align="center"></td> <!-- Discord -->
+
 </tr>
 <!-- Sixth row -->
 <tr>
-    <td>Ataru</td> <!-- House -->
-    <td align="center">Wildcat</td> <!-- Leader -->
-    <td align="center"></td> <!-- Line -->
-    <td align="center"></td> <!-- Discord -->
+
 </tr>
 </table>
