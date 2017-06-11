@@ -13,11 +13,11 @@ permalink: /videos/
 <a href="https://www.youtube.com/channel/UCS3DjNR8y6tKX7LSjV_RRKA" target="_blank">
 <img src="{{ site.url }}/assets/Smithie.jpg" alt="Smithie D" width="100" height="100" border="0">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wqvu4oSgtqc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wo28ryYTLnU" frameborder="0" allowfullscreen></iframe>
 
 
 <a href="https://www.youtube.com/channel/UCdJt2BvAOnFa9uEvbiDBF9g" target="_blank">
-<img src="{{ site.url }}/assets/VGM..jpg" alt="Virtual Gaming Worldt" width="100" height="100" border="0">
+<img src="{{ site.url }}/assets/VGM.jpg" alt="Virtual Gaming Worldt" width="100" height="100" border="0">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpHVLvlVSjI" frameborder="0" allowfullscreen></iframe>
 
