@@ -20,7 +20,6 @@ permalink: /Contact/
     <td align="center">Macewindow</td> <!-- Line -->
     <td align="center">Macewindow (BHG SF)#8630</td> <!-- Discord -->
 </tr>
-</table>
 <!-- Third row -->
 <tr>
     
