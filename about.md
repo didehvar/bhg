@@ -11,20 +11,24 @@ Its rules are the laws that keep bounty hunters together, anyone who breaks the 
 
 The core of the Bounty Hunters’ Guild is made up of nine major houses that operate nearly independently, but are held together by the overarching Bounty Hunters’ Guild. Each house has its own organization, regulation, specialties and agendas. Line and Discord are used for communication as these forces operate across the galaxy. The major Houses are:
 
-* <B>House Salaktori</B> (specialized in raiding in all areas of the galaxy)
+* <B>House Salaktori</B> (Nowhere to hide)
 
-* <B>Epidemic</B> (Specialized in raiding in th US, Australia & Asia)
+* <B>Epidemic</B> (Fear the Outbreak)
 
-* <B>Shot First</B> (Specialized in raiding in Europe)
+* <B>Shot First</B> (Deal with it)
 
-* <B>Squad Goals</B> (Specialized in raiding in the US)
+* <B>Squad Goals</B> (Gloves and Butt Stuff Division)
 
-* <B>Ataru</B> (Specialized in raiding in Asia)
+* <B>Ataru</B> (Beasts from the far far east)
 
-* <B>We Are Legion</B> (Specialized in raiding in the US)
+* <B>We Are Legion</B> (Yay!!!!!)
 
-* <B>Forces of Mortis</B> (Specialized in raiding in the US)
+* <B>Forces of Mortis</B> (Unstoppable force)
 
-* <B>212th Attack Battalion</B> (Specialized in raiding in Europe)
+* <B>212th Attack Battalion</B> (212th does not mess around)
 
-* <B>Dreadmasters</B> (Consists of top US ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
+* <B>AAA Stars</B> (30k a day yay 😬😉)
+
+* <B>Dreadmasters</B> (Consists of top ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
+
+* <B>Black Sun</B> (Not for the weak)
