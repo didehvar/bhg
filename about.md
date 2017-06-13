@@ -31,6 +31,6 @@ The core of the Bounty Hunters’ Guild is made up of eleven major houses that o
 
 * <a href="https://swgoh.gg/g/34/bhg-dreadmasters/" target="_blank"><B>Dreadmasters</B></a> (Consists of top ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
 
-* <a href="https://swgoh.gg/g/10721/bhg-black-sun/" target="_blank"><B>Black Sun</B></a> (Not for the weak)
+* <a href="https://swgoh.gg/g/10721/bhg-black-sun/" target="_blank"><B>Black Sun</B></a> (Go Pound Sand)
 
 NB: Links take you to [swgoh.gg](https://swgoh.gg/) where you can find the guild leaders contact information.
