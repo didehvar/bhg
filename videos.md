@@ -7,7 +7,7 @@ permalink: /videos/
 <a href="https://www.youtube.com/user/MistPassiert" target="_blank">
 <img src="{{ site.url }}/assets/Mist.jpg" alt="Mist Passiert" width="100" height="100" border="0">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4fcAquVyC2E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A59CneNc84g" frameborder="0" allowfullscreen></iframe>
 
 
 <a href="https://www.youtube.com/channel/UCS3DjNR8y6tKX7LSjV_RRKA" target="_blank">
