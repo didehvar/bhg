@@ -33,4 +33,4 @@ The core of the Bounty Hunters’ Guild is made up of eleven major houses that o
 
 * <a href="https://swgoh.gg/g/10721/bhg-black-sun/" target="_blank"><B>Black Sun</B></a> (Not for the weak)
 
-NB: Links take you to [swgoh.gg[(https://swgoh.gg/) where you can find the guild leaders contact information.
+NB: Links take you to [swgoh.gg](https://swgoh.gg/) where you can find the guild leaders contact information.
