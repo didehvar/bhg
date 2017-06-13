@@ -15,7 +15,7 @@ The core of the Bounty Hunters’ Guild is made up of nine major houses that ope
 
 * <B>Epidemic</B> (Fear the Outbreak)
 
-* <B>Shot First</B> (Deal with it)
+* [<B>Shot First</B>] https://swgoh.gg/g/1504/bhg-shot-first/ (Deal with it)
 
 * <B>Squad Goals</B> (Gloves and Butt Stuff Division)
 
