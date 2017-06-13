@@ -13,22 +13,22 @@ The core of the Bounty Hunters’ Guild is made up of nine major houses that ope
 
 * <a href="https://swgoh.gg/g/9149/bhg-house-salaktori/" target="_blank"><B>House Salaktori</B></a> (Nowhere to hide)
 
-* [<B>Epidemic</B>](https://swgoh.gg/g/9902/bhg-epidemic/) (Fear the Outbreak)
+* <a href="https://swgoh.gg/g/9902/bhg-epidemic/" target="_blank"><B>Epidemic</B></a> (Fear the Outbreak)
 
-* [<B>Shot First</B>](https://swgoh.gg/g/1504/bhg-shot-first/) (Deal with it)
+* <a href="https://swgoh.gg/g/1504/bhg-shot-first/" target="_blank"><B>Shot First</B></a> (Deal with it)
 
-* [<B>Squad Goals</B>](https://swgoh.gg/g/13295/bhg-squad-g0als/) (Gloves and Butt Stuff Division)
+* <a href="https://swgoh.gg/g/13295/bhg-squad-g0als/" target="_blank"><B>Squad Goals</B></a> (Gloves and Butt Stuff Division)
 
-* [<B>Ataru</B>](https://swgoh.gg/g/1224/bhg-ataru/) (Beasts from the far far east)
+* <a href="https://swgoh.gg/g/1224/bhg-ataru/" target="_blank"><B>Ataru</B></a> (Beasts from the far far east)
 
-* [<B>We Are Legion</B>](https://swgoh.gg/g/7343/bhg-we-are-legion/) (Yay!!!!!)
+* <a href="https://swgoh.gg/g/7343/bhg-we-are-legion/" target="_blank"><B>We Are Legion</B></a> (Yay!!!!!)
 
-* [<B>Ghosts of Mortis</B>](https://swgoh.gg/g/16188/bhg-ghosts-of-mortis/) (Unstoppable force)
+* <a href="https://swgoh.gg/g/16188/bhg-ghosts-of-mortis/" target="_blank"><B>Ghosts of Mortis</B></a> (Unstoppable force)
 
-* [<B>212th Attack Battalion</B>](https://swgoh.gg/g/14933/bhg-212th/) (212th does not mess around)
+* <a href="https://swgoh.gg/g/14933/bhg-212th/" target="_blank"><B>212th Attack Battalion</B></a> (212th does not mess around)
 
-* [<B>AAA Stars</B>](https://swgoh.gg/g/1580/bhg-aaa-stars/) (30k a day yay 😬😉)
+* <a href="https://swgoh.gg/g/1580/bhg-aaa-stars/" target="_blank"><B>AAA Stars</B></a> (30k a day yay 😬😉)
 
-* [<B>Dreadmasters</B>](https://swgoh.gg/g/34/bhg-dreadmasters/) (Consists of top ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
+* <a href="https://swgoh.gg/g/34/bhg-dreadmasters/" target="_blank"><B>Dreadmasters</B></a> (Consists of top ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
 
-* [<B>Black Sun</B>](https://swgoh.gg/g/10721/bhg-black-sun/) (Not for the weak)
+* <a href="https://swgoh.gg/g/10721/bhg-black-sun/" target="_blank"><B>Black Sun</B></a> (Not for the weak)
