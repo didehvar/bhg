@@ -23,7 +23,7 @@ The core of the Bounty Hunters’ Guild is made up of eleven major houses that o
 
 * <a href="https://swgoh.gg/g/16188/bhg-ghosts-of-mortis/" target="_blank"><B>Ghosts of Mortis</B></a> (Unstoppable force)
 
-* <a href="https://swgoh.gg/g/14933/bhg-212th/" target="_blank"><B>212th Attack Battalion</B></a> (212th does not mess around)
+* <a href="https://swgoh.gg/g/14933/bhg-212th/" target="_blank"><B>212th</B></a> (212th does not mess around)
 
 * <a href="https://swgoh.gg/g/1580/bhg-aaa-stars/" target="_blank"><B>AAA Stars</B></a> (30k a day yay 😬😉)
 
