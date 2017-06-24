@@ -11,8 +11,6 @@ Its rules are the laws that keep bounty hunters together, anyone who breaks the 
 
 The core of the Bounty Hunters’ Guild is made up of eleven major houses that operate nearly independently, but are held together by the overarching Bounty Hunters’ Guild. Each house has its own organization, regulation, specialties and agendas. Line and Discord are used for communication as these forces operate across the galaxy. The major Houses are:
 
-* <a href="https://swgoh.gg/g/9149/bhg-house-salaktori/" target="_blank"><B>House Salaktori</B></a> (Nowhere to hide)
-
 * <a href="https://swgoh.gg/g/9902/bhg-epidemic/" target="_blank"><B>Epidemic</B></a> (Fear the Outbreak)
 
 * <a href="https://swgoh.gg/g/1504/bhg-shot-first/" target="_blank"><B>Shot First</B></a> (Deal with it)
