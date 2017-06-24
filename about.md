@@ -27,7 +27,7 @@ The core of the Bounty Hunters’ Guild is made up of eleven major houses that o
 
 * <a href="https://swgoh.gg/g/1580/bhg-aaa-stars/" target="_blank"><B>AAA Stars</B></a> (30k a day yay 😬😉)
 
-* <a href="https://swgoh.gg/g/34/bhg-dreadmasters/" target="_blank"><B>Dreadmasters</B></a> (An awesome force)
+* <a href="https://swgoh.gg/g/34/bhg-dreadmasters/" target="_blank"><B>Dreadmasters</B></a> (The threshold of BHG. Dreadmasters is the strategic hub for all of BHG)
 
 * <B>Reloaded</B> (Consists of top ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
 
