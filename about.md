@@ -29,7 +29,7 @@ The core of the Bounty Hunters’ Guild is made up of eleven major houses that o
 
 * <a href="https://swgoh.gg/g/34/bhg-dreadmasters/" target="_blank"><B>Dreadmasters</B></a> (The threshold of BHG. Dreadmasters is the strategic hub for all of BHG)
 
-* <B>Reloaded</B> (Consists of top ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
+* <a href="https://swgoh.gg/g/24483/bhg-reloaded/" target="_blank"><B>Reloaded</B></a> (Consists of top ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
 
 * <a href="https://swgoh.gg/g/10721/bhg-black-sun/" target="_blank"><B>Black Sun</B></a> (Go Pound Sand)
 
