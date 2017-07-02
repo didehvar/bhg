@@ -11,26 +11,28 @@ Its rules are the laws that keep bounty hunters together, anyone who breaks the 
 
 The core of the Bounty Hunters’ Guild is made up of eleven major houses that operate nearly independently, but are held together by the overarching Bounty Hunters’ Guild. Each house has its own organization, regulation, specialties and agendas. Line and Discord are used for communication as these forces operate across the galaxy. The major Houses are:
 
-* <a href="https://swgoh.gg/g/9902/bhg-epidemic/" target="_blank"><B>Epidemic</B></a> (Fear the Outbreak)
+* <a href="https://swgoh.gg/g/24483/bhg-reloaded/" target="_blank"><B>Reloaded</B></a> (Legends - Consists of top ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
 
-* <a href="https://swgoh.gg/g/1504/bhg-shot-first/" target="_blank"><B>Shot First</B></a> (Deal with it)
+* <a href="https://swgoh.gg/g/9902/bhg-epidemic/" target="_blank"><B>Epidemic</B></a> (Heroic - Fear the Outbreak)
 
-* <a href="https://swgoh.gg/g/13295/bhg-squad-g0als/" target="_blank"><B>Squad Goals</B></a> (Gloves and Butt Stuff Division)
+* <a href="https://swgoh.gg/g/1504/bhg-shot-first/" target="_blank"><B>Shot First</B></a> (Heroic - Deal with it)
 
-* <a href="https://swgoh.gg/g/1224/bhg-ataru/" target="_blank"><B>Ataru</B></a> (Beasts from the far far east)
+* <a href="https://swgoh.gg/g/13295/bhg-squad-g0als/" target="_blank"><B>Squad Goals</B></a> (Heroic - Gloves and Butt Stuff Division)
 
-* <a href="https://swgoh.gg/g/7343/bhg-we-are-legion/" target="_blank"><B>We Are Legion</B></a> (Yay!!!!!)
+* <a href="https://swgoh.gg/g/1224/bhg-ataru/" target="_blank"><B>Ataru</B></a> (Heroic - Beasts from the far far east)
 
-* <a href="https://swgoh.gg/g/16188/bhg-ghosts-of-mortis/" target="_blank"><B>Ghosts of Mortis</B></a> (Unstoppable force)
+* <a href="https://swgoh.gg/g/7343/bhg-we-are-legion/" target="_blank"><B>We Are Legion</B></a> (Heroic - Yay!!!!!)
 
-* <a href="https://swgoh.gg/g/14933/bhg-212th/" target="_blank"><B>212th</B></a> (212th does not mess around)
+* <a href="https://swgoh.gg/g/16188/bhg-ghosts-of-mortis/" target="_blank"><B>Ghosts of Mortis</B></a> (Heroic - Unstoppable force)
 
-* <a href="https://swgoh.gg/g/1580/bhg-aaa-stars/" target="_blank"><B>AAA Stars</B></a> (30k a day yay 😬😉)
+* <a href="https://swgoh.gg/g/14933/bhg-212th/" target="_blank"><B>212th</B></a> (Heroic - 212th does not mess around)
 
-* <a href="https://swgoh.gg/g/34/bhg-dreadmasters/" target="_blank"><B>Dreadmasters</B></a> (The threshold of BHG. Dreadmasters is the strategic hub for all of BHG)
+* <a href="https://swgoh.gg/g/1580/bhg-aaa-stars/" target="_blank"><B>AAA Stars</B></a> (Heroic - 30k a day yay 😬😉)
 
-* <a href="https://swgoh.gg/g/24483/bhg-reloaded/" target="_blank"><B>Reloaded</B></a> (Consists of top ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
+* <a href="https://swgoh.gg/g/34/bhg-dreadmasters/" target="_blank"><B>Dreadmasters</B></a> (Heroic - The threshold of BHG. Dreadmasters is the strategic hub for all of BHG)
 
-* <a href="https://swgoh.gg/g/10721/bhg-black-sun/" target="_blank"><B>Black Sun</B></a> (Go Pound Sand)
+* <a href="https://swgoh.gg/g/10721/bhg-black-sun/" target="_blank"><B>Black Sun</B></a> (Heroic - Go Pound Sand)
+
+* <a <B>Freelancers</B></a> (Casual - Taking it easy with Mr Breezy)
 
 NB: Links take you to [swgoh.gg](https://swgoh.gg/) where you can find the guild leaders contact information.
