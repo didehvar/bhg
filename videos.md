@@ -29,4 +29,10 @@ permalink: /videos/
     </a>
     <iframe src="https://www.youtube.com/embed/6dbNmDSes3U" frameborder="0" allowfullscreen></iframe>
   </div>
+   <div style="margin-bottom: 15px;">
+    <a href="https://www.youtube.com/channel/UCSeA5lCFsr7SfeJM8irlDWQ" target="_blank">
+      <img src="{{ site.url }}/assets/Marcy.png" alt="Marcy" width="100" height="100" border="0" style="vertical-align: top; margin-bottom: 15px;">
+    </a>
+    <iframe src="https://www.youtube.com/embed/jL1YSsstWz0" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
