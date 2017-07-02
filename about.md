@@ -33,6 +33,6 @@ The core of the Bounty Hunters’ Guild is made up of eleven major houses that o
 
 * <a href="https://swgoh.gg/g/10721/bhg-black-sun/" target="_blank"><B>Black Sun</B></a> (Heroic - Go Pound Sand)
 
-* <B>Freelancers</B></a> (Casual - Taking it easy with Mr Breezy)
+* <B>Freelancers</B></a> (Casual - Win with Schwinn)
 
 NB: Links take you to [swgoh.gg](https://swgoh.gg/) where you can find the guild leaders contact information.
