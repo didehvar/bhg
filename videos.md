@@ -35,4 +35,10 @@ permalink: /videos/
     </a>
     <iframe src="https://www.youtube.com/embed/jL1YSsstWz0" frameborder="0" allowfullscreen></iframe>
   </div>
+     <div style="margin-bottom: 15px;">
+    <a href="https://www.youtube.com/channel/UCVOuBKm0tLvrYRWSe8wn2IA" target="_blank">
+      <img src="{{ site.url }}/assets/Turbs.png" alt="Turbs" width="100" height="100" border="0" style="vertical-align: top; margin-bottom: 15px;">
+    </a>
+    <iframe src="https://www.youtube.com/embed/fQq40SFzR_I" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
