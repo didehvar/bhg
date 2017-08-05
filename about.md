@@ -29,9 +29,11 @@ The core of the Bounty Hunters’ Guild is made up of eleven major houses that o
 
 * <a href="https://swgoh.gg/g/1580/bhg-aaa-stars/" target="_blank"><B>AAA Stars</B></a> (Heroic - 30k a day yay 😬😉)
 
-* <a href="https://swgoh.gg/g/34/bhg-dreadmasters/" target="_blank"><B>Dreadmasters</B></a> (Heroic - The threshold of BHG. Dreadmasters is the strategic hub for all of BHG)
+* <a href="https://swgoh.gg/g/626/rogue/" target="_blank"><B>Rogue</B></a> (Heroic)
 
 * <a href="https://swgoh.gg/g/10721/bhg-black-sun/" target="_blank"><B>Black Sun</B></a> (Heroic - Go Pound Sand)
+
+* <a href="https://swgoh.gg/g/702/let-qui-gons-b-qui-gons/" target="_blank"><B>Let Qui Gons b Qui Gons</B></a> (Heroic)
 
 * <B>Freelancers</B> (Casual - Win with Schwinn)
 
