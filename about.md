@@ -9,7 +9,7 @@ Its rules are the laws that keep bounty hunters together, anyone who breaks the 
 
 #### Organization
 
-The core of the Bounty Hunters’ Guild is made up of eleven major houses that operate nearly independently, but are held together by the overarching Bounty Hunters’ Guild. Each house has its own organization, regulation, specialties and agendas. Line and Discord are used for communication as these forces operate across the galaxy. The major Houses are:
+The core of the Bounty Hunters’ Guild is made up of thirteen major houses that operate nearly independently, but are held together by the overarching Bounty Hunters’ Guild. Each house has its own organization, regulation, specialties and agendas. Line and Discord are used for communication as these forces operate across the galaxy. The major Houses are:
 
 * <a href="https://swgoh.gg/g/24483/bhg-reloaded/" target="_blank"><B>Reloaded</B></a> (Legends - Consists of top ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
 
@@ -33,7 +33,7 @@ The core of the Bounty Hunters’ Guild is made up of eleven major houses that o
 
 * <a href="https://swgoh.gg/g/10721/bhg-black-sun/" target="_blank"><B>Black Sun</B></a> (Heroic - Go Pound Sand)
 
-* <a href="https://swgoh.gg/g/702/let-qui-gons-b-qui-gons/" target="_blank"><B>Let Qui Gons b Qui Gons</B></a> (Heroic)
+* <a href="https://swgoh.gg/g/702/let-qui-gons-b-qui-gons/" target="_blank"><B>Let Qui Gons b Qui Gons</B></a> (Heroic - You're not in Kansas anymore)
 
 * <B>Freelancers</B> (Casual - Win with Schwinn)
 
