@@ -11,7 +11,7 @@ Its rules are the laws that keep bounty hunters together, anyone who breaks the 
 
 The core of the Bounty Hunters’ Guild is made up of thirteen major houses that operate nearly independently, but are held together by the overarching Bounty Hunters’ Guild. Each house has its own organization, regulation, specialties and agendas. Line and Discord are used for communication as these forces operate across the galaxy. The major Houses are:
 
-* <a href="https://swgoh.gg/g/24483/bhg-reloaded/" target="_blank"><B>Reloaded</B></a> (Legends - Consists of top ranking, experienced players and those willing to invest significantly in their SWGoH Careers, maintaining top leaderboard positions and the success of the Alliance)
+* <a href="https://swgoh.gg/g/24483/bhg-reloaded/" target="_blank"><B>Reloaded</B></a> (Legends - Consists of top ranking, experienced players and those willing to invest significantly in their SWGoH Careers. Most of these guys started out in Dreadmasters prior to guilds launching)
 
 * <a href="https://swgoh.gg/g/9902/bhg-epidemic/" target="_blank"><B>Epidemic</B></a> (Heroic - Fear the Outbreak)
 
