@@ -33,7 +33,7 @@ The core of the Bounty Hunters’ Guild is made up of thirteen major houses that
 
 * <a href="https://swgoh.gg/g/10721/bhg-black-sun/" target="_blank"><B>Black Sun</B></a> (Heroic - Go Pound Sand)
 
-* <a href="https://swgoh.gg/g/702/let-qui-gons-b-qui-gons/" target="_blank"><B>Let Qui Gons b Qui Gons</B></a> (Heroic - You're not in Kansas anymore)
+* <a href="http://swgoh.gg/g/702/bhg-qui-gons/" target="_blank"><B>Let Qui Gons b Qui Gons</B></a> (Heroic - You're not in Kansas anymore)
 
 * <B>Freelancers</B> (Casual - Win with Schwinn)
 
