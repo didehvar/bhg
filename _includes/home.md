@@ -10,5 +10,8 @@
 </div>
 
 <div style="text-align: center; margin: 0 auto;">
-  <img src="{{ site.url }}/assets/joinusnow.gif" alt="BHG" border="0" style="max-width: 320px;">
+   <a href="https://docs.google.com/forms/d/e/1FAIpQLScJkzYDq9fC1TpKTAmQ5zha_s4m03ehABjzcP-pk6RfLDa_uQ/viewform" target="_blank">
+        <img src="{{ site.url }}/assets/joinusnow.gif" alt="BHG" border="0" style="max-width: 320px;">
+   </a>
 </div>
+
