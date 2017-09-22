@@ -19,7 +19,7 @@ permalink: /videos/
     <a href="https://www.youtube.com/channel/UCS3DjNR8y6tKX7LSjV_RRKA" target="_blank">
       <img src="{{ site.url }}/assets/Smithie.jpg" alt="Smithie D" width="100" height="100" border="0" style="vertical-align: top; margin-bottom: 15px;">
     </a>
-    <iframe src="https://www.youtube.com/embed/g_PXyrovaXE" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/MuodSkyumN4" frameborder="0" allowfullscreen></iframe>
   </div>
   
   <!-- Virtual Gaming World 
