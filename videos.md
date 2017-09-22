@@ -6,13 +6,13 @@ permalink: /videos/
 
 <div style="text-align: center; margin: 0 auto;">
 
-<!-- Mist Passiert -->
+<!-- Mist Passiert 
   <div style="margin-bottom: 15px;">
     <a href="https://www.youtube.com/user/MistPassiert" target="_blank">
       <img src="{{ site.url }}/assets/Mist.jpg" alt="Mist Passiert" width="100" height="100" border="0" style="vertical-align: top; margin-bottom: 15px;">
     </a>
     <iframe src="https://www.youtube.com/embed/MK0NnFr9zZ4" frameborder="0" allowfullscreen></iframe>
-  </div>
+  </div> -->
   
   <!-- Smithie D -->
   <div style="margin-bottom: 15px;">
