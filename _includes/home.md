@@ -10,5 +10,5 @@
 </div>
 
 <div style="text-align: center; margin: 0 auto;">
-  <img src="{{ site.url }}/assets/join.jpg" alt="BHG" border="0" style="max-width: 140px;">
+  <img src="{{ site.url }}/assets/joinusnow.gif" alt="BHG" border="0" style="max-width: 140px;">
 </div>
