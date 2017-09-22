@@ -29,7 +29,7 @@ The core of the Bounty Hunters’ Guild is made up of thirteen major houses that
 
 * <a href="https://swgoh.gg/g/1580/bhg-aaa-stars/" target="_blank"><B>AAA Stars</B></a> (Heroic - 30k a day yay 😬😉)
 
-* <a href="https://swgoh.gg/g/626/rogue/" target="_blank"><B>Rogue</B></a> (Heroic - "One rogue leads another.")
+* <a href="https://swgoh.gg/g/12405/bhg-jynandkronnic/" target="_blank"><B>JynAndKronnic</B></a> (Heroic - "Work for the guild and the guild works for you")
 
 * <a href="https://swgoh.gg/g/10721/bhg-black-sun/" target="_blank"><B>Black Sun</B></a> (Heroic - Go Pound Sand)
 
