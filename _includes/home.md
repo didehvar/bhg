@@ -8,3 +8,7 @@
 <div style="text-align: center; margin: 0 auto;">
   <iframe width="320" height="180" src="https://www.youtube.com/embed/LuiH7uJPGuY" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<div style="text-align: center; margin: 0 auto;">
+  <img src="{{ site.url }}/assets/join.jpg" alt="BHG" border="0" style="max-width: 140px;">
+</div>
